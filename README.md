@@ -1,3 +1,5 @@
 # hello-world
-to learn Github repositories
-to record some skills of using Github
+to learn Github
+
+Hi, this is Shane. 
+So happy to learn Github guides.
