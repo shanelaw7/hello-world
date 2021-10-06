@@ -1,2 +1,3 @@
 # hello-world
-learning Github repository
+to learn Github repositories
+to record some skills of using Github
